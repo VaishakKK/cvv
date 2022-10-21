@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    top: 0;
+}
+.first{
+    background-image: linear-gradient( 135deg, #81FFEF 10%, #F067B4 100%);
+    position: relative;
+    padding-top: 70px;
+    line-height: 3;
+   
+}
+body{
+    
+    text-align: center;
+
+}
+.topcloud{
+    position: absolute;
+    right:60px;
+ 
+}
+.bottomcloud{
+ 
+   position: absolute;
+display: inline-block;
+padding-top: 170px;
+left:70px;
+
+}
+h1{
+   
+    line-height: 2;
+    font-family: 'IBM Plex Sans', sans-serif;
+   
+}
+p{
+    text-align: center;
+    line-height: 2;
+  
+}
+.skill-row{
+
+margin:30px auto 20px auto;
+width: 50%;
+line-height: 3;
+
+}
+.chillimg{
+    width: 25%;
+    float:left;
+
+    margin:auto 7px auto ;
+  
+}
+.compimg{
+    width: 25%;
+    float:right;
+    margin: 30px;
+    border-radius: 90px;
+    -webkit-border-radius: 90px;
+    -moz-border-radius: 90px;
+    -ms-border-radius: 90px;
+    -o-border-radius: 90px;
+}
+.skills{
+   padding-right: 10px;
+}
+.mountain{
+    width:50%;
+    
+
+}
+hr{
+    
+    width:25%;
+    border: dotted;
+
+    
+}
+
